@@ -1,0 +1,23 @@
+.party-form {
+  position: relative;
+  list-style: none;
+  margin: 0 auto;
+  padding: 1rem;
+  width: 90%;
+  max-width: 40rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 6px;
+  background: white;
+}
+
+.button-ps {
+  justify-content: end;
+}
+
+.my-party-header {
+  color: #f8f8f8;
+  text-align: center;
+  font-size: 35px;
+  background-color: rgb(0 0 0 / 20%);
+  margin: 0;
+}

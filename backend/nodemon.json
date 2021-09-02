@@ -1,0 +1,10 @@
+{
+    "env":{
+        "DB_USER":"testproject",
+        "DB_PASSWORD":"puzk140242",
+        "DB_NAME":"mren",
+        "JWT_KEY":"supersecret_dont_share"
+
+
+    }
+}
